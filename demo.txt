@@ -1,2 +1,3 @@
 tis is a mian bootcamp
 
+this is day 2 class in github
